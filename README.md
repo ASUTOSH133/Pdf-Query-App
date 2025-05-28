@@ -33,7 +33,13 @@ An AI-powered web application to upload PDF files and query their content using 
     Activate it:
     venv\Scripts\activate
 
+    Install the requirments:
     pip install -r requirements.txt
+
+    Run command:
+    python main.py
+
+
 
 3. Start frontend:
     cd frontend
