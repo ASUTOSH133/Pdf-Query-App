@@ -17,31 +17,41 @@ An AI-powered web application to upload PDF files and query their content using 
 
 ## 📦 Setup Instructions
 
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/ASUTOSH133/Pdf-Query-App.git
+1. Clone the Repository  
+    ```bash
+    git clone git clone https://github.com/ASUTOSH133/Pdf-Query-App.git
+    cd pdf-query-app-streamlit
+    ```
 
-2. setup instructions for  virtual environment:
-    ## 🔧 Backend Setup
-
-    Create a virtual environment:
-
-    ```bash 
-    cd backend
+2. Create a Virtual Environment  
+    ```bash
     python -m venv venv
+    ```
 
-    Activate it:
+3. Activate the Virtual Environment  
+    Windows:
+    ```bash
     venv\Scripts\activate
+    ```
+    macOS/Linux:
+    ```bash
+    source venv/bin/activate
+    ```
 
-3. Install the requirments:
+4. Install Dependencies  
+    ```bash
     pip install -r requirements.txt
+    ```
 
-   Run command:
+5. Run the backend
+    ```bash
     python main.py
-
-
-
-3. Start frontend:
+    ```
+6. Start frontend:
+    ```bash
     cd frontend
+
     npm install
+    
     npm run dev
+    ```
