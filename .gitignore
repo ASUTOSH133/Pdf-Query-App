@@ -1,0 +1,12 @@
+# Node and Python generated
+node_modules/
+.venv/
+venv/
+__pycache__/
+.next/
+uploads/
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
