@@ -21,10 +21,22 @@ An AI-powered web application to upload PDF files and query their content using 
    ```bash
    git clone https://github.com/ASUTOSH133/Pdf-Query-App.git
 
-2. Set up backend:
+2. setup instructions for  virtual environment:
+    ## 🔧 Backend Setup
+
+    Create a virtual environment:
+
+    ```bash 
+    cd backend
+    python -m venv venv
+
+    Activate it:
+    venv\Scripts\activate
+
+3. Set up backend:
     cd backend
     pip install -r requirements.txt
-3. Start frontend:
+4. Start frontend:
     cd frontend
     npm install
     npm run dev
