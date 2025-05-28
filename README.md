@@ -33,10 +33,9 @@ An AI-powered web application to upload PDF files and query their content using 
     Activate it:
     venv\Scripts\activate
 
-3. Set up backend:
-    cd backend
     pip install -r requirements.txt
-4. Start frontend:
+
+3. Start frontend:
     cd frontend
     npm install
     npm run dev
