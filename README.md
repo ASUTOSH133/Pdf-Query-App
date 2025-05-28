@@ -58,9 +58,9 @@ An AI-powered web application to upload PDF files and query their content using 
 ## 📸 App Screenshots
 
 ### 🔍 Home Screen
-![Home Screen](Screenshots\app-result1.png)
+![Home Screen](Screenshots/app-result1.png)
 ### 💬 Query Result
-![Query Pdf Uploded](Screenshots\app-result2.png)
-![Query Result](Screenshots\app-result3.png)
-![Query Result](Screenshots\app-result4.png)
+![Query Pdf Uploded](Screenshots/app-result2.png)
+![Query Result](Screenshots/app-result3.png)
+![Query Result](Screenshots/app-result4.png)
 
